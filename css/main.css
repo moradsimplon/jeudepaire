@@ -98,7 +98,7 @@ textarea {
    main {
      display: flex;
      flex-wrap: wrap;
-     margin: 5%;
+     margin: 3%;
      align-items: center;
      padding-left: 10%;
    }
